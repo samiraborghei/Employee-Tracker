@@ -1,7 +1,7 @@
 # Module 12 Challenge: Employee-Tracker
 ## Description
 Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called content management systems (CMS). Your assignment this week is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
-```
+
 ## User Story
 AS A business owner
 I WANT to be able to view and manage the departments, roles, and employees in my company
@@ -25,12 +25,12 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 ## Link
-A link to the [code](https://github.com/jgarcia45/employee-tracker):
+A link to the [code](https:git@github.com:samiraborghei/Employee-Tracker.git):
 ```
-https://github.com/jgarcia45/employee-tracker
+git@github.com:samiraborghei/Employee-Tracker.git
 ```
 
 ## License
-  Copyright (c) Juan Garcia. All rights reserved.
+  Copyright (c) Samira Borghei. All rights reserved.
   
   Licensed under the [MIT](LICENSE) license.
