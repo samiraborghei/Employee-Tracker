@@ -35,7 +35,8 @@ THEN I am prompted to select an employee to update and their new role and this i
 ```
 
 ## Screenshot
-![Command Line](./assets/images/ScreenShot.png)
+![Command Line](./assets/images/ScreenShot.png)<img width="1792" alt="Screen Shot 2023-05-14 at 8 04 00 PM" src="https://github.com/samiraborghei/Employee-Tracker/assets/124013032/546ea76b-ae4b-4da5-801d-381416b699de">
+
 
 ## Video
 A link to the [Video](https://drive.google.com/file/d/1iLtvdj3uZNERlBNge1r-ioUPwlK19fIk/view): 
