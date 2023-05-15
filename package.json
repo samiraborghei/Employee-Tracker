@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jgarcia45/employee-tracker.git"
+    "url": "git@github.com:samiraborghei/Employee-Tracker.git"
   },
   "keywords": [
     "node.js",
@@ -18,9 +18,9 @@
   "author": "Samira Borghei",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jgarcia45/employee-tracker/issues"
+    "url": "https://github.com/samiraborghei/Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/jgarcia45/employee-tracker#readme",
+  "homepage": "https://github.com/samiraborghei/Employee-Tracker#readme",
   "dependencies": {
     "inquirer": "^8.2.4",
     "mysql2": "^2.3.3"
