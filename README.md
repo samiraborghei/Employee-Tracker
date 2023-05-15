@@ -44,9 +44,7 @@ A link to the [Video](https://drive.google.com/file/d/1iLtvdj3uZNERlBNge1r-ioUPw
 ```
 
 ## Link
-A link to the [code](https://github.com/jgarcia45/employee-tracker):
-```
-https://github.com/jgarcia45/employee-tracker
+A link to the [code](git@github.com:samiraborghei/Employee-Tracker.git):
 ```
 
 ## License
